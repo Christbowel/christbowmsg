@@ -6,15 +6,23 @@ C'est mieux de ne pas exposer son numéro de téléphone
 À n'importe qui 
 C'est pourquoi cet outil permettra d'envoyer des messages à un numéro peu importe le pays sans que le récepteur ne voit le numéro de l'émetteur 
 
-Commandes linux 
+#commandes linux 
 
 Pkg install python
+
 Pkg install git 
+
 git clone https://github.com/Christbowel/Christbowmsg
-Python cbmsg.py 
+
+python cbmsg.py 
 
 
 #by Christ bowel
-#faire un don 
+
+#faire un don sur ce PayPal
+
 PayPal : christbowel6@gmail.com
-© Copyright Christ bowel
+
+
+© Copyright  Christ bowel
+
