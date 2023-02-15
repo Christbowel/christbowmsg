@@ -1,27 +1,42 @@
 # christbowmsg
 
-Outil pour envoi de message anonymes en ligne 
-Conçu dans le but de sauvegarder la confidentialité en par message 
+Script automatise pour envoi de message anonymes ( en ligne de commande )
+Conçu dans le but de sauvegarder la confidentialité par message SMS 
 C'est mieux de ne pas exposer son numéro de téléphone 
 À n'importe qui 
 C'est pourquoi cet outil permettra d'envoyer des messages à un numéro peu importe le pays sans que le récepteur ne voit le numéro de l'émetteur 
 
-#commandes linux 
+# commandes d'installation sur un système linux 
 
-Pkg install python
+• cloner le référenciel à l'aide de la commande 
 
-Pkg install git 
+``git clone https://github.com/Christbowel/Christbowmsg.git``
 
-git clone https://github.com/Christbowel/Christbowmsg
+• accéder au répertoire cloné
 
-python cbmsg.py
+``cd christbowmsg``
 
-#requires modules
-• requests
+# modules requis
+
 • pyfiglet
 
+``pip install pyfiglet``
 
-#by Christ bowel
+• requests
 
-© Copyright  Christbowel
+``pip install resuests``
+
+• Enfin exécuter le programme
+
+``python cbmsg.py``
+
+# NB
+
+Limite d'un message par jour 
+
+# Website
+
+https://christbowel.ml
+
+© Copyright  ChristBowel ( CTF player, bug hunter )
 
