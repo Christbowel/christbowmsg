@@ -14,15 +14,14 @@ Pkg install git
 
 git clone https://github.com/Christbowel/Christbowmsg
 
-python cbmsg.py 
+python cbmsg.py
+
+#requires modules
+• requests
+• pyfiglet
 
 
 #by Christ bowel
 
-#faire un don sur ce PayPal
-
-PayPal : christbowel6@gmail.com
-
-
-© Copyright  Christ bowel
+© Copyright  Christbowel
 
